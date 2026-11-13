@@ -1,8 +1,8 @@
 class Envmanager < Formula
   desc "CLI for EnvManager - secure environment variable management"
   homepage "https://envmanager.dev"
-  url "https://registry.npmjs.org/@envmanager-cli/cli/-/cli-0.8.0.tgz"
-  sha256 "1c052cf8ca2380489d66e114b381daab0a6d5ae6d8f5061770de5569ffc32ca4"
+  url "https://registry.npmjs.org/@envmanager-cli/cli/-/cli-0.8.1.tgz"
+  sha256 "ba756eeac7195384d73df865f9baac90a8a810727834f9fc40fa26c41d02e9de"
   license "SEE LICENSE IN LICENSE"
 
   depends_on "node"
